@@ -1,2 +1,2 @@
 # big_five_personality_labels
-A notebook that demonstrates the use of a stacked metamodel to predict personality labels based on Big Five personality scores.
+A notebook that demonstrates the use of a stacked metamodel to predict personality labels based on Big Five personality scores. The data I used wasn't terribly predictive, but the approach is sound (I'd love access to some better Big Five data!). For the results, check out this notebook on my [Kaggle account](https://www.kaggle.com/yonatanilan/big-five-traits-with-personality-labels).
